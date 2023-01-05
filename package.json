@@ -26,7 +26,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LandmakTechnology/nodejs-application"
+    "url": "https://github.com/twitter30-devops/nodejs-application"    
+    ##"url": "https://github.com/LandmakTechnology/nodejs-application"
   },
   "keywords": [
     "node",
